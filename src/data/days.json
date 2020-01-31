@@ -1,0 +1,79 @@
+[
+   {
+      "Date": "2020-01-30T07:00:00+02:00",
+      "EpochDate": 1580360400,
+      "Temperature": {
+         "Minimum": { "Value": 53.0, "Unit": "F", "UnitType": 18 },
+         "Maximum": { "Value": 65.0, "Unit": "F", "UnitType": 18 }
+      },
+      "Day": { "Icon": 2, "IconPhrase": "Mostly sunny", "HasPrecipitation": false },
+      "Night": { "Icon": 36, "IconPhrase": "Intermittent clouds", "HasPrecipitation": false },
+      "Sources": ["AccuWeather"],
+      "MobileLink": "http://m.accuweather.com/en/il/tel-aviv/215854/daily-weather-forecast/215854?day=1&lang=en-us",
+      "Link": "http://www.accuweather.com/en/il/tel-aviv/215854/daily-weather-forecast/215854?day=1&lang=en-us"
+   },
+   {
+      "Date": "2020-01-31T07:00:00+02:00",
+      "EpochDate": 1580446800,
+      "Temperature": {
+         "Minimum": { "Value": 51.0, "Unit": "F", "UnitType": 18 },
+         "Maximum": { "Value": 63.0, "Unit": "F", "UnitType": 18 }
+      },
+      "Day": {
+         "Icon": 14,
+         "IconPhrase": "Partly sunny w/ showers",
+         "HasPrecipitation": true,
+         "PrecipitationType": "Rain",
+         "PrecipitationIntensity": "Moderate"
+      },
+      "Night": { "Icon": 34, "IconPhrase": "Mostly clear", "HasPrecipitation": false },
+      "Sources": ["AccuWeather"],
+      "MobileLink": "http://m.accuweather.com/en/il/tel-aviv/215854/daily-weather-forecast/215854?day=2&lang=en-us",
+      "Link": "http://www.accuweather.com/en/il/tel-aviv/215854/daily-weather-forecast/215854?day=2&lang=en-us"
+   },
+   {
+      "Date": "2020-02-01T07:00:00+02:00",
+      "EpochDate": 1580533200,
+      "Temperature": {
+         "Minimum": { "Value": 53.0, "Unit": "F", "UnitType": 18 },
+         "Maximum": { "Value": 63.0, "Unit": "F", "UnitType": 18 }
+      },
+      "Day": { "Icon": 6, "IconPhrase": "Mostly cloudy", "HasPrecipitation": false },
+      "Night": {
+         "Icon": 12,
+         "IconPhrase": "Showers",
+         "HasPrecipitation": true,
+         "PrecipitationType": "Rain",
+         "PrecipitationIntensity": "Light"
+      },
+      "Sources": ["AccuWeather"],
+      "MobileLink": "http://m.accuweather.com/en/il/tel-aviv/215854/daily-weather-forecast/215854?day=3&lang=en-us",
+      "Link": "http://www.accuweather.com/en/il/tel-aviv/215854/daily-weather-forecast/215854?day=3&lang=en-us"
+   },
+   {
+      "Date": "2020-02-02T07:00:00+02:00",
+      "EpochDate": 1580619600,
+      "Temperature": {
+         "Minimum": { "Value": 48.0, "Unit": "F", "UnitType": 18 },
+         "Maximum": { "Value": 63.0, "Unit": "F", "UnitType": 18 }
+      },
+      "Day": { "Icon": 3, "IconPhrase": "Partly sunny", "HasPrecipitation": false },
+      "Night": { "Icon": 34, "IconPhrase": "Mostly clear", "HasPrecipitation": false },
+      "Sources": ["AccuWeather"],
+      "MobileLink": "http://m.accuweather.com/en/il/tel-aviv/215854/daily-weather-forecast/215854?day=4&lang=en-us",
+      "Link": "http://www.accuweather.com/en/il/tel-aviv/215854/daily-weather-forecast/215854?day=4&lang=en-us"
+   },
+   {
+      "Date": "2020-02-03T07:00:00+02:00",
+      "EpochDate": 1580706000,
+      "Temperature": {
+         "Minimum": { "Value": 50.0, "Unit": "F", "UnitType": 18 },
+         "Maximum": { "Value": 65.0, "Unit": "F", "UnitType": 18 }
+      },
+      "Day": { "Icon": 3, "IconPhrase": "Partly sunny", "HasPrecipitation": false },
+      "Night": { "Icon": 35, "IconPhrase": "Partly cloudy", "HasPrecipitation": false },
+      "Sources": ["AccuWeather"],
+      "MobileLink": "http://m.accuweather.com/en/il/tel-aviv/215854/daily-weather-forecast/215854?day=5&lang=en-us",
+      "Link": "http://www.accuweather.com/en/il/tel-aviv/215854/daily-weather-forecast/215854?day=5&lang=en-us"
+   }
+]

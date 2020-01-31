@@ -1,0 +1,16 @@
+{
+   "LocalObservationDateTime": "2020-01-30T20:05:00+02:00",
+   "EpochTime": 1580407500,
+   "WeatherText": "Partly cloudy",
+   "WeatherIcon": 35,
+   "HasPrecipitation": false,
+   "PrecipitationType": null,
+   "IsDayTime": false,
+   "Temperature": {
+      "Metric": { "Value": 14.6, "Unit": "C", "UnitType": 17 },
+      "Imperial": { "Value": 58.0, "Unit": "F", "UnitType": 18 }
+   },
+   "MobileLink": "http://m.accuweather.com/en/il/tel-aviv/215854/current-weather/215854?lang=en-us",
+   "Link": "http://www.accuweather.com/en/il/tel-aviv/215854/current-weather/215854?lang=en-us"
+}
+   
